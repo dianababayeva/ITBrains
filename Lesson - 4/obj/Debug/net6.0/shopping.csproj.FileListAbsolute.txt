@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\shopping\bin\Debug\net6.0\shopping.exe
+C:\Users\Huawei\source\repos\shopping\bin\Debug\net6.0\shopping.deps.json
+C:\Users\Huawei\source\repos\shopping\bin\Debug\net6.0\shopping.runtimeconfig.json
+C:\Users\Huawei\source\repos\shopping\bin\Debug\net6.0\shopping.dll
+C:\Users\Huawei\source\repos\shopping\bin\Debug\net6.0\shopping.pdb
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.dll
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\refint\shopping.dll
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.pdb
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\shopping.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\shopping\obj\Debug\net6.0\ref\shopping.dll
