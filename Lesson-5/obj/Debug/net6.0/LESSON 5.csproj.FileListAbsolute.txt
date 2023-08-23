@@ -1,0 +1,15 @@
+C:\Users\Huawei\source\repos\LESSON 5\bin\Debug\net6.0\LESSON 5.exe
+C:\Users\Huawei\source\repos\LESSON 5\bin\Debug\net6.0\LESSON 5.deps.json
+C:\Users\Huawei\source\repos\LESSON 5\bin\Debug\net6.0\LESSON 5.runtimeconfig.json
+C:\Users\Huawei\source\repos\LESSON 5\bin\Debug\net6.0\LESSON 5.dll
+C:\Users\Huawei\source\repos\LESSON 5\bin\Debug\net6.0\LESSON 5.pdb
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.dll
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\refint\LESSON 5.dll
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.pdb
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\LESSON 5.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\LESSON 5\obj\Debug\net6.0\ref\LESSON 5.dll
